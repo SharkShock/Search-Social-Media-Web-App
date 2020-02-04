@@ -1,0 +1,9 @@
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\bin\PlaceMeUp.dll.config
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\bin\PlaceMeUp.dll
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\bin\PlaceMeUp.pdb
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\obj\Debug\PlaceMeUp.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\obj\Debug\PlaceMeUp.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\obj\Debug\PlaceMeUp.dll
+C:\Users\Vladimir\source\repos\PlaceMeUp\PlaceMeUp\obj\Debug\PlaceMeUp.pdb
